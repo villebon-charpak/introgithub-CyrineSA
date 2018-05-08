@@ -15,7 +15,8 @@
 # Niveau 1
 # --------
 
-# Exercice 1.1
+#EXERCICE 1
+
 #
 #   Définir la bonne variable pour faire fonctionner le code ci-dessous.
 #
@@ -25,9 +26,8 @@
 # ... Écrivez votre code ici ...
 
 
-
-print(ma_variable)
-
+U=input()
+print(U)
 
 
 # Exercice 1.2
@@ -39,7 +39,11 @@ print(ma_variable)
 
 # ... Écrivez votre code ici ...
 
-texte = "Salut !"
+
+V="salut"
+print(V) 
+
+
 
 
 
@@ -53,10 +57,10 @@ texte = "Salut !"
 
 # ... Écrivez votre code ici ...
 
+
+
 nombre = 2 # ne pas toucher à cette ligne !
-
-
-
+input(nombre +1)
 print(nombre)
 
 
@@ -72,6 +76,12 @@ print(nombre)
 
 # ... Écrivez votre code ici ...
 
+C="nombre_de_clients"
+C = 0
+C=input()
+input(C+2)
+input(C-1)
+print(C)
 
 
 
